@@ -16,3 +16,4 @@ vendor/
 Gopkg.lock
 
 .idea/
+v4lmjpgstreamer
